@@ -5,3 +5,6 @@
 # A large image of a Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` python
+greeting = "Good afternoon!";
+```

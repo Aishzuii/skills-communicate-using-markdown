@@ -1,3 +1,4 @@
 # This is the largest heading size
-### This is the third largest size te see how big it is
-###### How small is this who knows
+### This is the third largest size to see how big it is
+###### This is the smallest heading size
+
